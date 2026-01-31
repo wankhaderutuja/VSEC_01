@@ -1,0 +1,1 @@
+In this practical we create branch, merge branch and resolve conflicts.
